@@ -1,0 +1,5 @@
+2022-12-12 14:34:32 INFO  OpenMRSStepDefinition:60 - MRS Init
+2022-12-12 14:34:36 INFO  OpenMRSStepDefinition:68 - I am in mrs home page
+2022-12-12 14:34:38 INFO  OpenMRSStepDefinition:75 - I logged in to open MRS page
+2022-12-12 14:34:41 INFO  OpenMRSStepDefinition:84 - I navigate to register a patient page
+2022-12-12 14:34:48 INFO  OpenMRSStepDefinition:99 - Quit Browser
